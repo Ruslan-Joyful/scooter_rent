@@ -1,4 +1,4 @@
-order_body = {
+body_create_order = {
     "firstName": "Naruto",
     "lastName": "Uchiha",
     "address": "Konoha, 142 apt.",
